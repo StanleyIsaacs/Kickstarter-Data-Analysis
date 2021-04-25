@@ -1,5 +1,5 @@
-# Analysis of Kickstarter Campaigns
-Using Kickstarter to Uncover Trends
+# Using Kickstarter to Determine Trends
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82114481/116003110-aa0eb700-a5ca-11eb-9ee5-fe0d5287b24c.png)
 ![Outcome_vs_Goals](https://user-images.githubusercontent.com/82114481/116003113-ad09a780-a5ca-11eb-9810-a4ccd55880c6.png)
 # Kickstarter Outcomes Based on Dates and Goals
